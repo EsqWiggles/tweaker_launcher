@@ -44,6 +44,12 @@ if exist "%TWEAKER_DIRECTORY%" (
 
 
 if exist "%TWEAKER_ALT_NAME%" (
+    if exist "%TWEAKER_NAME%" (
+        echo Error! Cannot rename %TWEAKER_ALT_NAME%
+        echo A %TWEAKER_NAME% file already exists in %CD%
+        echo Please move, rename, or delete it before continuing.
+        pause
+    )
     rename "%TWEAKER_ALT_NAME%" "%TWEAKER_NAME%"
 )
 
