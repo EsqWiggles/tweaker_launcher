@@ -22,7 +22,9 @@ Click the clone/download button at the top of the GitHub page or use
 (https://github.com/EsqWiggles/tweaker_launcher/archive/master.zip)
 
 ### Setup
-You can use this script with a shortcut (easiest way) or opening it directly.
+You can use this script by placing it in the same folder as your Tweaker and
+making a shortcut to it. If you do not want to create a shortcut and want to
+use the script directly, you need to edit in your Tweaker folder in the script.
 
 #### Use through shortcut
 * Move tweaker_launcher.bat into the same folder as PSO2 Tweaker.exe
