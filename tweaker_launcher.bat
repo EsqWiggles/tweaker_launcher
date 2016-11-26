@@ -1,6 +1,6 @@
 @echo off
 REM ================== PASTE TWEAKER_DIRECTORY BELOW =========================
-set TWEAKER_DIRECTORY="%CD%"
+set TWEAKER_DIRECTORY=%CD%
 REM ===========================================================================
 
 

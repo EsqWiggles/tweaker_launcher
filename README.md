@@ -20,8 +20,8 @@ You can use this script with a shortcut (easiest way) or opening it directly.
 
 #### Use script directly
 * Open tweaker_launcher.bat in notepad
-* Go to line 3, it looks like: set TWEAKER_DIRECTORY="%CD%"
-* Replace %CD% with the path of your Tweaker's folder; keep the quotes
+* Go to line 3, it looks like: set TWEAKER_DIRECTORY=%CD%
+* Replace %CD% with the path of your Tweaker's folder
 * Move tweaker_launcher.bat to a convenient place and double-click to use it.
 
 ## Can I delete the other files?
