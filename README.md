@@ -36,6 +36,10 @@ use the script directly, you need to edit in your Tweaker folder in the script.
 * Replace %CD% with the path of your Tweaker's folder
 * Move tweaker_launcher.bat to a convenient place and double-click to use it.
 
+Note: If the script does not need to do any renaming it will just launch the
+Tweaker program normally. You can delete your shortcut to the Tweaker if you
+want to use this script instead!
+
 ## Can I delete the other files?
 Yes you only need the tweaker_launcher.bat file. You can delete all the other
 files if you want, after reading the instructions.
