@@ -3,7 +3,7 @@
 A Windows batch script for launching the [PSO2 Tweaker](http://arks-layer.com/) program. Due to certain circumstances, the Tweaker renames itself as it launches. If it does not close properly, the name is left altered and shortcuts do not work. This script will try to rename the file and launch it on your behalf.
 
 ## Why should I use this?
-In all likelihood you do not keep your Tweaker on your desktop, and it takes some effort to navigate to the folder and renamed it manually. This script lets you it all with just one click!
+In all likelihood you do not keep your Tweaker on your desktop, and it takes some effort to navigate to the folder, rename it manually, and launch it again. This script lets you do it all in two clicks!
 
 You may also know some friends who don't want to think about the technical details of why their shortcut is breaking and re-downloads the whole Tweaker program every time the shortcut breaks. Give this to them instead.
 
